@@ -1,0 +1,291 @@
+.home{
+    background-image:url(home.jpg);
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    height:550px;
+}
+.first{
+    padding-left: 50%;
+    padding-top: 10%;
+}
+.welcome{
+    padding-left: 47%;
+    padding-top: 1%;
+    color:white;
+    
+}
+.to{
+    padding-left: 41%;
+    color:white;
+}
+.mouse{
+    padding-left: 54%;
+    padding-top:6%;
+}
+.pargraph1{
+    padding-left: 41%;
+    font-size:10px;
+    color: white;
+}
+.space1{
+    background-color: white;
+    height: 300px;
+
+}
+.about{
+    color: black;
+    padding-left: 47%;
+}
+.paragraph2{
+    padding-left: 20%;
+    
+}
+.p1{
+    padding-left: 50%;
+    
+
+}
+.p2{
+    padding-left: 30%;
+}
+.p3{
+    padding-left: 25%;
+
+}
+.p4{
+    padding-left: 40%;
+}
+.space3{
+    height: 400px;
+    background-image:url(space3.jpg);
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size:cover;
+
+}
+.service{
+    padding-left: 47%;
+    padding-top: 5%;
+    color: white;
+
+
+}
+.p5{
+    padding-left: 20%;
+    color:rgb(255, 255, 255);
+
+}
+.p6{
+    padding-left: 30%;
+    color:rgb(255, 255, 255);
+
+}
+.p7{
+    padding-left: 29%;
+    color:rgb(255, 255, 255);
+
+}
+.col1{
+    padding-left:10%;
+    
+}
+.col2{
+    padding-left: 20%;
+   
+}
+.design{
+    font-size: 21px;
+    color:black;
+    font-style:normal;
+    padding-top: 2%;
+}
+.dev{
+    font-size: 21px;
+    color:black;
+    font-style:normal;
+    padding-top: 2%;
+}
+.prod{
+    font-size: 21px;
+    color:black;
+    font-style:normal;
+   
+}
+.prod2{
+    max-width: 950px;
+    border-radius: 800px;
+    margin: 1px 1px;
+    font-size:15px;
+    
+
+}
+.header1{
+    padding-left: 47%;
+    padding-top: 2%;
+    color: black;
+    font-style:normal;
+    font-size: 30px
+}
+.container{
+    padding-top: 2%;
+
+}
+.pard{
+    padding-top: 1%;
+}
+.portfolio{
+    padding-left: 47%;
+    font-size: 25px;
+}
+.pic1{
+    height: 200px;
+    width: 27%;
+    padding-top: 2%;
+    padding-left: 10%;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.pic2{
+    height: 200px;
+    width: 20%;
+    padding-top: 2%;
+    padding-left: 2%;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size:cover;
+}.pic3{
+    height: 200px;
+    width: 20%;
+    padding-top: 2%;
+    padding-left: 2%;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size:cover;
+}.pic4{
+    height: 200px;
+    width: 20%;
+    padding-top: 2%;
+    padding-left: 2%;
+
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.pic5{
+    height: 200px;
+    width: 27%;
+    padding-top: 2%;
+    padding-left: 10%;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.pic6{
+    height: 200px;
+    width: 20%;
+    padding-top: 2%;
+    padding-left: 2%;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size:cover;
+}.pic7{
+    height: 200px;
+    width: 20%;
+    padding-top: 2%;
+    padding-left: 2%;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size:cover;
+}.pic8{
+    height: 200px;
+    width: 20%;
+    padding-top: 2%;
+    padding-left: 2%;
+
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.space6{
+    height: 450px;
+    background-image:url(contact.jpg);
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size:cover;
+
+}
+.pic{
+    height: 300px;
+    color: white;
+}
+.content{
+    padding-left: 45%;
+    font-style: normal;
+    font-size: 31px;
+    color:rgb(255, 255, 255);
+    padding-top: 2%;
+    
+}
+.contact{
+    padding-left: 30%;
+    padding-top: 1%;
+}
+.content2{
+    padding-left: 1%;
+}
+.txt{
+    padding-top: 1%;
+    padding-left: 30%;
+    height: 290px;
+}
+.field{
+    height: 290px;
+    width: 55%;
+
+}
+.button{
+    padding-left: 2%;
+
+}
+.space7{
+    padding-top: 3%;
+    padding-left: 25%;
+
+}
+.icon9{
+    padding-left: 2%;
+}
+.icon10{
+    padding-left: 2%;
+}
+.icon11{
+    padding-left: 2%;
+}
+.icon12{
+    padding-left: 2%;
+}
+.icon13{
+    padding-left: 2%;
+}
+.icon14{
+    padding-left: 2%;
+}
+.icon15{
+    padding-left: 2%;
+}
+.icon16{
+    padding-left: 2%;
+}
+.slast{
+    padding-top: 2%;
+    padding-left: 45%;
+    font-size: 12px;
+
+}
+.last{
+    padding-left: 47%;
+    font-size: 12px;
+
+}
